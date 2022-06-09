@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bac0f570-014a-4834-9137-addc13001033": {
+      "ProjectGuid": "bac0f570-014a-4834-9137-addc13001033",
+      "DisplayName": "TheKingdomSystem.Management.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
